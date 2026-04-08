@@ -54,12 +54,12 @@ const siteConfig = {
         "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=1200&q=80",
     },
     {
-      name: "Kyoto",
+      name: "Tokyo",
       region: "Japan",
       description:
         "Tokyo road drifts and wild youthful adventurous.",
       image:
-        "https://images.unsplash.com/photo-1504788362163-4b9a5ce840f0?auto=format&fit=crop&w=1200&q=80",
+        "https://plus.unsplash.com/premium_photo-1661914240950-b0124f20a5c1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dG9reW98ZW58MHx8MHx8fDA%3D",
     },
     {
       name: "Cappadocia",
@@ -140,7 +140,7 @@ const siteConfig = {
       },
     ],
     image:
-      "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1513072064285-240f87fa81e8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VW1yYWh8ZW58MHx8MHx8fDA%3D",
   },
   testimonials: [
     {
