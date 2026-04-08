@@ -9,6 +9,7 @@ import Testimonials from "@/components/layout/Testimonials";
 import CTA from "@/components/layout/CTA";
 import Footer from "@/components/layout/Footer";
 
+
 const formatName = (text) => {
   return text
     .replace(/_/g, " ")          // replace underscores with spaces

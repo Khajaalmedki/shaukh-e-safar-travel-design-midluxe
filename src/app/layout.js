@@ -22,8 +22,8 @@ const arabicFont = Amiri({
 });
 
 export const metadata = {
-  title: siteConfig.siteName,
-  description: siteConfig.description,
+  title: "WebNexora Travel Web Design",
+  description: "This is one of the mid-luxe travel web design from webnexora",
 };
 
 export default function RootLayout({ children }) {
