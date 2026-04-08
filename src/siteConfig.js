@@ -49,7 +49,7 @@ const siteConfig = {
       name: "Istanbul",
       region: "Turkey",
       description:
-        "Ottoman domes, the Bosphorus at dusk, and a symphony of minarets.",
+        "Turkish Ice-creams, the Bosphorus at dusk, and a symphony of minarets.",
       image:
         "https://images.unsplash.com/photo-1527838832700-5059252407fa?auto=format&fit=crop&w=1200&q=80",
     },
@@ -57,7 +57,7 @@ const siteConfig = {
       name: "Kyoto",
       region: "Japan",
       description:
-        "Temple gardens, incense smoke, and the hush of cedar-lined pathways.",
+        "Tokyo road drifts and wild youthful adventurous.",
       image:
         "https://images.unsplash.com/photo-1504788362163-4b9a5ce840f0?auto=format&fit=crop&w=1200&q=80",
     },
@@ -65,7 +65,7 @@ const siteConfig = {
       name: "Cappadocia",
       region: "Turkey",
       description:
-        "Volcanic valleys, floating balloon rituals, and moonlit cave suites.",
+        "Volcanic valleys, floating balloon adventures, and moonlit cave suites.",
       image:
         "https://images.unsplash.com/photo-1529420705456-5c7e04dd043d?auto=format&fit=crop&w=1200&q=80",
     },
