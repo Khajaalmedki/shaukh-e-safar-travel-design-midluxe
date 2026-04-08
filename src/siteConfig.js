@@ -3,7 +3,7 @@ const siteConfig = {
   tagline: "Luxury journeys that feel like whispered poetry.",
   description:
     "Shaukh-e-Safar curates cinematic, slow-travel experiences with a reverence for heritage, detail, and spiritual calm.",
-  arabicAccent: "سفرٌ يشبهُ الدعاء",
+  arabicAccent: "سفر نحو البهجة",
   nav: [
     { label: "Home", href: "/" },
     { label: "Umrah", href: "/umrah" },
@@ -32,7 +32,7 @@ const siteConfig = {
     ],
   },
   emotionalStatement: {
-    heading: "Travel as ritual, not checklist.",
+    heading: "Journeys beyond destinations, beyond checkmarks.",
     body:
       "We choreograph every moment with breathing space and quiet grandeur. Your journey unfolds like a story etched in light and silk.",
   },
